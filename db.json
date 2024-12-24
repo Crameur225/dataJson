@@ -1,0 +1,148 @@
+{
+    "users": [
+      {
+        "id": "2",
+        "name": "Jean Konan",
+        "email": "jean.konan@example.com",
+        "phone": "+225 0708091011",
+        "website": "jeankonan.com"
+      },
+      {
+        "id": "4",
+        "name": "Michel Traoré",
+        "email": "michel.traore@example.com",
+        "phone": "+225 0506070809",
+        "website": "micheltraore.org"
+      },
+      {
+        "id": "5",
+        "name": "Isabelle Yao",
+        "email": "isabelle.yao@example.com",
+        "phone": "+225 0405060708",
+        "website": "isabelleyao.com"
+      },
+      {
+        "id": "6",
+        "name": "Didier Diaby",
+        "email": "didier.diaby@example.com",
+        "phone": "+225 0901020304",
+        "website": "didierdiaby.net"
+      },
+      {
+        "id": "7",
+        "name": "Marie Tano",
+        "email": "marie.tano@example.com",
+        "phone": "+225 0304050607",
+        "website": "marietano.com"
+      },
+      {
+        "id": "8",
+        "name": "Koffi N'Dri",
+        "email": "koffi.ndri@example.com",
+        "phone": "+225 0203040506",
+        "website": "koffindri.org"
+      },
+      {
+        "id": "9",
+        "name": "Amadou Sangaré",
+        "email": "amadou.sangare@example.com",
+        "phone": "+225 0809101112",
+        "website": "amadous.com"
+      },
+      {
+        "id": "10",
+        "name": "Emilie Koné",
+        "email": "emilie.kone@example.com",
+        "phone": "+225 0605040302",
+        "website": "emiliekone.net"
+      },
+      {
+        "id": "11",
+        "name": "Fabrice Koffi",
+        "email": "fabrice.koffi@example.com",
+        "phone": "+225 0112131415",
+        "website": "fabricekoffi.com"
+      },
+      {
+        "id": "12",
+        "name": "Ange Dembélé",
+        "email": "ange.dembele@example.com",
+        "phone": "+225 0702030405",
+        "website": "angedembele.net"
+      },
+      {
+        "id": "13",
+        "name": "Mariam Coulibaly",
+        "email": "mariam.coulibaly@example.com",
+        "phone": "+225 0506071213",
+        "website": "mariamc.com"
+      },
+      {
+        "id": "14",
+        "name": "Eric Aka",
+        "email": "eric.aka@example.com",
+        "phone": "+225 0413141516",
+        "website": "ericaka.org"
+      },
+      {
+        "id": "15",
+        "name": "Aminata Ouattara",
+        "email": "aminata.ouattara@example.com",
+        "phone": "+225 0108090706",
+        "website": "aminataouattara.com"
+      },
+      {
+        "id": "16",
+        "name": "Seydou Koné",
+        "email": "seydou.kone@example.com",
+        "phone": "+225 0308091009",
+        "website": "seydoukone.net"
+      },
+      {
+        "id": "17",
+        "name": "Patricia Guei",
+        "email": "patricia.guei@example.com",
+        "phone": "+225 0909090807",
+        "website": "patriciaguei.com"
+      },
+      {
+        "id": "18",
+        "name": "Assane Fofana",
+        "email": "assane.fofana@example.com",
+        "phone": "+225 0202020101",
+        "website": "assanefofana.net"
+      },
+      {
+        "id": "19",
+        "name": "Blaise Yobouet",
+        "email": "blaise.yobouet@example.com",
+        "phone": "+225 0712121110",
+        "website": "blaise.com"
+      },
+      {
+        "id": "20",
+        "name": "Josiane Djibo",
+        "email": "josiane.djibo@example.com",
+        "phone": "+225 0606060505",
+        "website": "josianedjibo.org"
+      },
+      {
+        "id": "fcb7",
+        "name": "Yavo Gael Borromée Agbe",
+        "email": "agbejunias7@gmail.com",
+        "phone": "0700029598"
+      },
+      {
+        "id": "4e7f",
+        "name": "AGBE YAVO GAEL BORR",
+        "email": "pflowensky@gmail.com",
+        "phone": "0700029598"
+      },
+      {
+        "id": "3f24",
+        "name": "Yamal",
+        "email": "yamal@gmail.com",
+        "phone": "076827009809"
+      }
+    ]
+  }
